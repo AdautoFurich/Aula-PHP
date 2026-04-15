@@ -1,3 +1,3 @@
 <?php include 'layout/header.php'; ?>
-    Olá mundo
+    Hello World!
 <?php include 'layout/footer.php'; ?>
