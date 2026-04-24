@@ -15,9 +15,9 @@
             print_r($user);
         }
   
-        // if($_POST['senha'] == 123456){
-        //     header('Location: dash.php');
-        // }
+        if($_POST['senha'] == 123456){
+            header('Location: dash.php');
+        }
         
     } else {
         header('Location: ./');
